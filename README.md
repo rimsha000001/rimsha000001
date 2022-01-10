@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @rimsha000001
+- 👋 Hi, I’m @RimshaShahid017
 - 👀 I’m interested in web development
 - 🌱 I’m currently learning C#
 - 📫 rimshas208@gmail.com
